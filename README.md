@@ -1,8 +1,25 @@
+<h1 align="center"> Alura+ </h1>
+
+<p align="center">
+  <img alt="rocketpay" src=".github/preview.png" width="70%">
+</p>
+
+<p align="center">
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+      <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
+
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
+
+<br>
 ## 👩🏻‍💻 Projeto
 <p>
 Um site para divulgação da Alura Plus, uma plataforma de streaming com os conteúdos educacionais da Alura.
 </p>
-
 
 ## 🚀 Tecnologias
 
