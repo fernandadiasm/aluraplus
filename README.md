@@ -22,6 +22,8 @@
 Um site para divulgação da Alura Plus, uma plataforma de streaming com os conteúdos educacionais da Alura.
 </p>
 
+[🔗 É possível acessar o projeto clicando aqui! 💜](https://fernandadiasm.github.io/aluraplus/)
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
